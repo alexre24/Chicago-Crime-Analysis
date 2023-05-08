@@ -4,7 +4,7 @@
 
 
 ### Chicago Crime Compared to Time
-![](Screen%20Shot%202023-05-08%20at%205.53.09%20PM.png)
+![](Screen%20Shot%202023-05-08%20at%206.04.09%20PM.png)
 > The image above shows the crime rate in Chicago over multiple years, as well as crime per month and per day of the week.
 
 
